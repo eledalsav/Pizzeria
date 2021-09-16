@@ -1,0 +1,70 @@
+﻿body {
+    background-color:peachpuff;
+    margin:0;
+
+}
+
+h1{
+    font-family:Arial;
+    color:brown;
+    text-align:center;
+}
+ul {
+    font-family: Arial;
+    color: none;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: maroon;
+}
+
+/*#logo+h1{
+    display:inline;
+}*/
+#logo {
+    background-color: beige;
+    align-content:center;
+}
+
+main {
+    margin-left: 20%;
+    margin-right:20%;
+    height: 1000px;
+    padding: 1px 16px;
+}
+
+footer {
+    width: 100%;
+    /* posizionamento in fondo alla pagina */
+    /*position: fixed;*/
+    bottom: 0;
+    overflow: hidden;
+}
+
+#footerPizzeria{
+    text-align:center;
+}
+
+.fa {
+    padding: 10px;
+    font-size: 10px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+    .fa:hover {
+        opacity: 0.7;
+    }
+
+.fa-instagram {
+    background: #830909;
+    color: white;
+}
+
+.fa-facebook {
+    background: #830909;
+    color: white;
+}
